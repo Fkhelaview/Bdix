@@ -1,173 +1,325 @@
-============================================================
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 
-                | LAST UPDATE: 10-06-26 |
-                | SPORTSONLINE.PK |
-                | SPORTSONLINE.PK |
+# --- 24/7 CHANNELS ---
+#EXTINF:-1 group-title="24/7 CHANNELS", 24/7 Channels Link
+https://ww2.sporttsonline.click//247.txt
 
-       INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
-       INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
-       INFO: PLEASE USE DOMAIN LISTED BELOW ALWAYS!
+# ================= WEDNESDAY =================
 
-       ANY INFO/ISSUES/PARTNERSHIP EMAIL: boomrunmarch@proton.me
-       ANY INFO/ISSUES/PARTNERSHIP EMAIL: boomrunmarch@proton.me
-       ANY INFO/ISSUES/PARTNERSHIP EMAIL: boomrunmarch@proton.me
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD1 ENGLISH
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD2 ENGLISH
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD5 ENGLISH
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD3 GERMAN
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD4 FRENCH
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD6 SPANISH
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD7 ITALIAN
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD8 TURKISH
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD9 DUTCH
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | HD11 ARABIC
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | BR1 BRAZILIAN
+https://ww2.sporttsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | BR4 BRAZILIAN
+https://ww2.sporttsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | BR3 BRAZILIAN
+https://ww2.sporttsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="WEDNESDAY", [03:00] Uzbekistan x Colombia | BR2 BRAZILIAN
+https://ww2.sporttsonline.click/channels/bra/br2.php
 
-        24/7 CHANNELS https://ww2.sporttsonline.click//247.txt
-        24/7 CHANNELS https://ww2.sporttsonline.click//247.txt
-        24/7 CHANNELS https://ww2.sporttsonline.click//247.txt
-	   	  		  
-============================================================
+# ================= THURSDAY =================
 
-*(W) - Women Event
+#EXTINF:-1 group-title="THURSDAY", [10:30] Tennis - ATP Halle 2026 | SPORTTV 2
+https://ww2.sporttsonline.click/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="THURSDAY", [11:30] Tennis - ATP London 2026 | SPORTTV 3
+https://ww2.sporttsonline.click/channels/pt/sporttv3.php
 
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-	
-        𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃! 𝐑𝐄𝐀𝐃!
-        𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓! 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓! 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓! 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓! 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓!
+# --- Czech Republic x South Africa ---
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | BR2
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="THURSDAY", [17:00] Czech Republic x South Africa | BR3
+https://ww2.sporttsonline.click/channels/bra/br3.php
 
-WEDNESDAY 
-HD1 ENGLISH
-HD2 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD9 SPANISH
-HD10 GREEK
-HD11 ARABIC
+# --- Switzerland x Bosnia and Herzegovina ---
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | BR2
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | BR1
+https://ww2.sporttsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | BR3
+https://ww2.sporttsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="THURSDAY", [20:00] Switzerland x Bosnia | BR4
+https://ww2.sporttsonline.click/channels/bra/br4.php
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
+# --- Canada x Qatar ---
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | BR2
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="THURSDAY", [23:00] Canada x Qatar | BR3
+https://ww2.sporttsonline.click/channels/bra/br3.php
 
-10:00   Tennis: ATP World Tour 250 - 's-Hertogenbosch | https://ww2.sporttsonline.click/channels/pt/sporttv2.php
-10:00   Tennis: ATP World Tour 250 - Stuttgart | https://ww2.sporttsonline.click/channels/pt/sporttv3.php
-12:30   Congo DR U20 x Saudi Arabia U21 | https://ww2.sporttsonline.click/channels/hd/hd6.php
-12:30   Congo DR U20 x Saudi Arabia U21 | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-18:00   Colombia U20 x Tunisia U20 | https://ww2.sporttsonline.click/channels/hd/hd6.php
-18:00   Colombia U20 x Tunisia U20 | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/hd/hd2.php
-20:45   Portugal x Nigeria | https://ww2.sporttsonline.click/channels/hd/hd7.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/hd/hd9.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/hd/hd10.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/hd/hd11.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-20:45   Portugal X Nigeria | https://ww2.sporttsonline.click/channels/bra/br1.php
-21:00   England x Costa Rica | https://ww2.sporttsonline.click/channels/hd/hd1.php
-21:00   England x Costa Rica | https://ww2.sporttsonline.click/channels/pt/sporttv3.php
-21:00   England x Costa Rica | https://ww2.sporttsonline.click/channels/bra/br2.php
-21:00   Bolivia x Algeria | https://ww2.sporttsonline.click/channels/hd/hd5.php
-00:00   Forge x HFX Wanderers | https://ww2.sporttsonline.click/channels/hd/hd1.php
-00:00   Ceará x Avaí | https://ww2.sporttsonline.click/channels/bra/br2.php
-01:30   NBA: San Antonio Spurs @ New York Knicks | https://ww2.sporttsonline.click/channels/hd/hd2.php
+# --- Mexico x Korea Republic ---
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | BR2
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | BR1
+https://ww2.sporttsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | BR3
+https://ww2.sporttsonline.click/channels/bra/br3.php
+#EXTINF:-1 group-title="THURSDAY", [02:00] Mexico x Korea Republic | BR4
+https://ww2.sporttsonline.click/channels/bra/br4.php
 
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-		
-THURSDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 TURKISH
-HD9 DUTCH
-HD10 GREEK
-HD11 ARABIC 
+# ================= FRIDAY =================
 
-BR1 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
+# --- MotoGP: Czechia FP1 ---
+#EXTINF:-1 group-title="FRIDAY", [08:00] MotoGP: Czechia FP1 | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [08:00] MotoGP: Czechia FP1 | SPORTTV 4
+https://ww2.sporttsonline.click/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="FRIDAY", [08:00] MotoGP: Czechia FP1 | BR6
+https://ww2.sporttsonline.click/channels/bra/br6.php
 
-10:00   Tennis: ATP World Tour 250 - 's-Hertogenbosch | https://ww2.sporttsonline.click/channels/pt/sporttv2.php
-10:00   Tennis: ATP World Tour 250 - Stuttgart | https://ww2.sporttsonline.click/channels/pt/sporttv3.php
-12:30   Venezuela U20 x Japan U20 | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-18:00   Portugal U20 x Canada U20 | https://ww2.sporttsonline.click/channels/pt/sporttv2.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd1.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd2.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd3.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd4.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd6.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd7.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd8.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd9.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd10.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/hd/hd11.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/bra/br4.php
-20:00   Mexico x South Africa | https://ww2.sporttsonline.click/channels/bra/br1.php
-01:00   NHL: Carolina Hurricanes @ Vegas Golden Knights | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd1.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd2.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd5.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd3.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd4.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd6.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd7.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd8.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd9.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd10.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/hd/hd11.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
-03:00   Korea Republic x Czech Republic | https://ww2.sporttsonline.click/channels/bra/br3.php
+# --- Tennis ---
+#EXTINF:-1 group-title="FRIDAY", [10:30] Tennis - ATP Halle 2026 | SPORTTV 2
+https://ww2.sporttsonline.click/channels/pt/sporttv2.php
+#EXTINF:-1 group-title="FRIDAY", [11:30] Tennis - ATP London 2026 | SPORTTV 3
+https://ww2.sporttsonline.click/channels/pt/sporttv3.php
 
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-        𝐍𝐄𝐖 𝐃𝐎𝐌𝐀𝐈𝐍 SPORTSONLINE.PK
-		
-FRIDAY
-HD1 ENGLISH
-HD2 ENGLISH
-HD3 GERMAN
-HD4 FRENCH
-HD5 ENGLISH
-HD6 SPANISH
-HD7 ITALIAN
-HD8 TURKISH
-HD9 DUTCH
-HD10 GREEK
-HD11 ARABIC
+# --- MotoGP: Czechia Practice ---
+#EXTINF:-1 group-title="FRIDAY", [12:15] MotoGP: Czechia Practice | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [12:15] MotoGP: Czechia Practice | SPORTTV 4
+https://ww2.sporttsonline.click/channels/pt/sporttv4.php
+#EXTINF:-1 group-title="FRIDAY", [12:15] MotoGP: Czechia Practice | BR6
+https://ww2.sporttsonline.click/channels/bra/br6.php
 
-BR1 BRAZILIAN
-BR2 BRAZILIAN
-BR3 BRAZILIAN
-BR4 BRAZILIAN
+#EXTINF:-1 group-title="FRIDAY", [19:00] Boxing: José Navarro x Oliver Zaren | BR6
+https://ww2.sporttsonline.click/channels/bra/br6.php
 
-09:20   Superbike World SBK: Pirelli GP Italy - FP1 | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-10:00   Tennis: ATP World Tour 250 - Stuttgart | https://ww2.sporttsonline.click/channels/pt/sporttv2.php
-12:30   World WCR: Pirelli GP Italy - Tissot Superpole | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-12:30   Superbike World SPB: Pirelli GP Italy - Tissot Superpole | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-14:00   Superbike World SBK: Pirelli GP Italy - FP2 | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-12:30   Superbike World SSP: Pirelli GP Italy - Tissot Superpole | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd1.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd2.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd5.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd3.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd4.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd6.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd7.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd8.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd9.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd10.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/hd/hd11.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/pt/sporttv1.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/bra/br2.php
-20:00   Canada x Bosnia and Herzegovina | https://ww2.sporttsonline.click/channels/bra/br3.php
-21:00   Volleyball: Montenegro x Portugal | https://ww2.sporttsonline.click/channels/pt/sporttv2.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd1.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd2.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd5.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd3.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd4.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd6.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd7.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd8.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd9.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd10.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/hd/hd11.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/pt/sporttv5.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/bra/br1.php
-02:00   USA x Paraguay | https://ww2.sporttsonline.click/channels/bra/br4.php
+# --- USA x Australia ---
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | BR2 (Stream 1)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="FRIDAY", [20:00] USA x Australia | BR2 (Stream 2)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+
+# --- Scotland x Morocco ---
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | BR2 (Stream 1)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="FRIDAY", [23:00] Scotland x Morocco | BR2 (Stream 2)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+
+# --- Brazil x Haiti ---
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | BR2 (Stream 1)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | BR1
+https://ww2.sporttsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | BR4
+https://ww2.sporttsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="FRIDAY", [01:30] Brazil x Haiti | BR2 (Stream 2)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+
+# --- Turkey x Paraguay ---
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD1
+https://ww2.sporttsonline.click/channels/hd/hd1.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD2
+https://ww2.sporttsonline.click/channels/hd/hd2.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD5
+https://ww2.sporttsonline.click/channels/hd/hd5.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD3
+https://ww2.sporttsonline.click/channels/hd/hd3.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD4
+https://ww2.sporttsonline.click/channels/hd/hd4.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD6
+https://ww2.sporttsonline.click/channels/hd/hd6.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD7
+https://ww2.sporttsonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD8
+https://ww2.sporttsonline.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD9
+https://ww2.sporttsonline.click/channels/hd/hd9.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD10
+https://ww2.sporttsonline.click/channels/hd/hd10.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | HD11
+https://ww2.sporttsonline.click/channels/hd/hd11.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | SPORTTV 5
+https://ww2.sporttsonline.click/channels/pt/sporttv5.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | BR4
+https://ww2.sporttsonline.click/channels/bra/br4.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | BR1
+https://ww2.sporttsonline.click/channels/bra/br1.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | BR2 (Stream 1)
+https://ww2.sporttsonline.click/channels/bra/br2.php
+#EXTINF:-1 group-title="FRIDAY", [04:00] Turkey x Paraguay | BR2 (Stream 2)
+https://ww2.sporttsonline.click/channels/bra/br2.php
